@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Getting into Crochet"
+---
+
 # Getting into Crochet
 
 I’ve decided it’s time to pick up a hobby. I’ve had my eyes on knitting for a long time now, but I never got around to it because, well, I was a corporate girl with little to no time.
