@@ -9,5 +9,8 @@ This is a spot to drop random writings, my opinions on books, and more randomnes
 
 ## Blog Posts
 
-👉 [The Quiet After the Obsession](./The Quiet After the Obsession.html)  
-👉 [Getting into Crochet](./Getting into Crochet.html)  
+<ul>
+  <li><a href="./The Quiet After the Obsession.html">👉 The Quiet After the Obsession</a></li>
+  <li><a href="./Getting into Crochet.html">👉 Getting into Crochet</a></li>
+</ul>
+
