@@ -17,3 +17,8 @@ This is a spot to drop random writings, my opinions on books, and more randomnes
   <li><a href="./Endless Applications, Empty Inboxes.html"> 👉 Endless Applications, Empty Inboxes </a></li>
 </ul>
 
+## Book reviews
+
+<ul>
+  <li><a href= "./Welcome to Hyunam-dong Bookshop - A Book Review.md">👉 Welcome to Hyunam-dong Bookshop - A Book Review</a></li>
+</ul>
