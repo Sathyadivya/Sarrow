@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "The Puzzle Challenge: Beating Boredom with 1,000 Pieces"
+title: "The Puzzle Challenge - Beating Boredom with 1,000 Pieces"
 ---
 
-# The Puzzle Challenge: Beating Boredom with 1,000 Pieces
+# The Puzzle Challenge - Beating Boredom with 1,000 Pieces
 
 It all started on a Tuesday afternoon when I found myself staring at the ceiling, feeling the weight of boredom pressing down on me. Scrolling through my social media feeds wasn’t cutting it anymore, and I knew I needed something different—something challenging, yet oddly satisfying.
 
