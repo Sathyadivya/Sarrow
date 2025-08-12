@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Welcome to Hyunam-dong Bookshop - A Book Review"
+title: "Welcome to Hyunam-dong Bookshop"
 ---
 
-# Book Review: *Welcome to Hyunam-dong Bookshop* by Hwang Bo-reum
+# *Welcome to Hyunam-dong Bookshop* by Hwang Bo-reum
 
 > “Books are not meant to remain in your mind, but your heart.”
 
