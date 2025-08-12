@@ -20,5 +20,5 @@ This is a spot to drop random writings, my opinions on books, and more randomnes
 ## Book reviews
 
 <ul>
-  <li><a href= "./Welcome to Hyunam-dong Bookshop - A Book Review.html">👉 Welcome to Hyunam-dong Bookshop - A Book Review</a></li>
+  <li><a href= "./Welcome to Hyunam-dong Bookshop.html">👉 Welcome to Hyunam-dong Bookshop</a></li>
 </ul>
