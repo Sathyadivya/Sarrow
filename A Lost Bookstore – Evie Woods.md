@@ -3,7 +3,7 @@ layout: default
 title: "A Lost Bookstore – Evie Woods"
 ---
 
-## "*A Lost Bookstore* – Evie Woods"
+## *A Lost Bookstore* – Evie Woods
 ## **Rating: ★★★☆☆ (3/5)**
 
 There is something undeniably enchanting about books that center around other books, or better yet, magical bookshops. That is what initially drew me to *A Lost Bookstore*. A mysterious bookstore, parallel timelines, and a sprinkle of magic? Sign me up. The premise alone felt like the literary equivalent of a warm cup of tea on a rainy day.
