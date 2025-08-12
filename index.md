@@ -23,3 +23,8 @@ This is a spot to drop random writings, my opinions on books, and more randomnes
   <li><a href= "./Welcome to Hyunam-dong Bookshop.html">👉 Welcome to Hyunam-dong Bookshop</a></li>
   <li><a href= "./A Lost Bookstore – Evie Woods.html">👉 A Lost Bookstore – Evie Woods</a></li>
 </ul>
+
+## Writing corner
+<ul>
+  <li><a href= "./Goofy.html"> 👉 Goofy</a></li>
+</ul>
