@@ -27,4 +27,5 @@ This is a spot to drop random writings, my opinions on books, and more randomnes
 ## Writing corner
 <ul>
   <li><a href= "./Goofy.html"> 👉 Goofy</a></li>
+  <li><a href= "./Lost and Found.html> 👉 Lost and Found</a></li>
 </ul>
