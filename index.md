@@ -28,5 +28,5 @@ This is a spot to drop random writings, my opinions on books, and more randomnes
 <ul>
   <li><a href= "./Goofy.html"> 👉 Goofy</a></li>
   <li><a href= "./LostandFound.html"> 👉 Lost and Found</a></li>
-  <li><a href= "./‎24 Year Old Teenager.html"> 👉 ‎24 Year Old Teenager </a></li>
+  <li><a href= "./‎24-Year-Old-Teenager.html"> 👉 ‎24 Year Old Teenager </a></li>
 </ul>
