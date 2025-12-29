@@ -17,7 +17,7 @@ This is a spot to drop random writings, my opinions on books, and more randomnes
   <li><a href="./Endless Applications, Empty Inboxes.html"> 👉 Endless Applications, Empty Inboxes </a></li>
 </ul>
 
-## Book reviews
+## In My Head: Reviews of What I’ve Consumed
 
 <ul>
   <li><a href= "./Welcome to Hyunam-dong Bookshop.html">👉 Welcome to Hyunam-dong Bookshop</a></li>
