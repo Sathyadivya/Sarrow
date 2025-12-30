@@ -22,10 +22,13 @@ This is a spot to drop random writings, my opinions on books, and more randomnes
 <ul>
   <li><a href= "./Welcome to Hyunam-dong Bookshop.html">👉 Welcome to Hyunam-dong Bookshop</a></li>
   <li><a href= "./A Lost Bookstore – Evie Woods.html">👉 A Lost Bookstore – Evie Woods</a></li>
-  <li> <a href="./A movie called Fight Club.html">👉 A movie called "Fight Club"</a></li>
+  <li><a href="./A movie called Fight Club.html">👉 A movie called "Fight Club"</a></li>
+  <li><a href="./Everything, Everywhere, All at Once.html">👉 Everything, Everywhere, All at Once – A Review (With Extra Dimensions and Some Laughs)</a></li>
 </ul>
 
+
 ## Writing corner
+
 <ul>
   <li><a href= "./Goofy.html"> 👉 Goofy</a></li>
   <li><a href= "./LostandFound.html"> 👉 Lost and Found</a></li>
